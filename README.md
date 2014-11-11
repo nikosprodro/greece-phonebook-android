@@ -5,7 +5,6 @@ Greece Visitor Phonebook for Android is a small handy app that aims to provide q
 
 This application is part of the broader project "Visitor Phonebook". For more information check out the [github project][1].
 
-
 ## Dependencies
 
 The project depends on two Android projects: 
